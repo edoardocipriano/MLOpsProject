@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/edoardocipriano/Desktop/MASTER%20AI%20ENG/PROGETTI%20MASTER/PROGETTO%20MLOPS/mlruns/0/1a311420fa3a4618808509be8e5968bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a311420fa3a4618808509be8e5968bf
+run_name: capricious-duck-554
+run_uuid: 1a311420fa3a4618808509be8e5968bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742151621492
+status: 1
+tags: []
+user_id: edoardocipriano
